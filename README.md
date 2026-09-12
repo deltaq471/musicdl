@@ -4,4 +4,4 @@ A really crappy python script entirely made by a ai agent that happens to bypass
 
 use this at your own risk, im not responsible.
 
-vibecode it and fork it if you want. (i myself dont know how the script work)
+vibecode it and fork it if you want. (i myself dont know how the script works)
