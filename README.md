@@ -11,7 +11,7 @@ run.bat (Windows)
 Run.command (Mac)
 run.sh (Linux and BSD)
 
-use this at your own risk.
+use this at your own risk. i am not responsible
 
 made by me and @ammophilous (we only created the ai prompts lmao the entire work was done by AI)
 
