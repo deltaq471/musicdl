@@ -1,6 +1,6 @@
 << MusicDL >>
 
-a really crappy python script entirely made by a AI agent that downloads music from YouTube, Spotify, and SoundCloud. no DRM bypass, it just grabs whatever is publicly available.
+a really crappy python script entirely made by an AI agent that downloads music from YouTube, Spotify, and SoundCloud. no DRM bypass, it just grabs whatever is publicly available.
 
 use this at your own risk, im not responsible.
 
