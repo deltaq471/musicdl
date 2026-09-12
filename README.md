@@ -7,3 +7,5 @@ use this at your own risk, im not responsible.
 vibecode it and fork it if you want. (i myself dont know how the script works)
 
 (enhanced by a friend of mine further, i only made the reference script)
+
+not to be confused with; "https://github.com/CharlesPikachu/musicdl" this project has no relation with that.
