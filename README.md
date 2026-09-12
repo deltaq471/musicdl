@@ -1,6 +1,6 @@
 << MusicDL >>
 
-a really crappy python script entirely made by AI that downloads music from YouTube, Spotify, and SoundCloud. no DRM bypass, it just grabs whatever is publicly available.
+a really crappy python script entirely made by AI that downloads music and videofrom YouTube, Spotify, SoundCloud and Audiomack.
 
 Supported platforms; essentially everything that supports Python, such as Windows, Mac, Linux, BSD. (Keep in mind that i only provide binaries for Windows!)
 
