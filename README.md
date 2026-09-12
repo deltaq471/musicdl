@@ -1,4 +1,4 @@
-                                                           << MusicDL >>
+                                                      << MusicDL >>
 
 A really crappy python script (converted into binaries) entirely made by a ai agent that happens to bypass DRM from YouTube, Spotify, and SoundCloud.
 
