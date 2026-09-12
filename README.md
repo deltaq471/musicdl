@@ -12,8 +12,8 @@ not to be confused with; "https://github.com/CharlesPikachu/musicdl" this projec
 
 Supported platforms; essentially everything that supports Python, such as Windows, Mac, Linux, BSD. (Keep in mind that we only provide binaries for Windows!)
 
-how to compile it on platforms other then windows?
-it's simple, download the .zip from Releases according to your platform (or download the source code) then run 'build.sh' if youre on Mac, Linux and BSD, and build.bat if youre on Windows, after building run the according files;
+how to run it on platforms other than windows?
+it's simple, download the .zip from Releases according to your platform (or download the source code) then run 'build.sh' if youre on Mac, Linux and BSD, and build.bat if youre on Windows, after building run the according files:
 
 run.bat (Windows)
 Run.command (Mac)
